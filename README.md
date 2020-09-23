@@ -1,1 +1,2 @@
 # carpo
+Carpo is a cloud one-stop development environment running in browser. Carpo automatically integrates all Redspot's functions and plug-ins back on the server side, saving developers the trouble of installing local environment and plug-ins. Carpo will also automatically upgrade to the latest versions, and be able to save and automatically migrate the developer's project to the latest version of tools and services.
